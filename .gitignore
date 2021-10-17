@@ -1,0 +1,7 @@
+.cache
+dist
+node_modules
+question1_answer.js
+.idea
+.DS_Store
+.vs_code
