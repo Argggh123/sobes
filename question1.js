@@ -7,9 +7,9 @@ let reverseAndFilterArr = function (arrToFilter) {
     .filter(value => typeof value === 'string')
 };
 
-// const curryFunc = TODO: карировать функцию reverseAndFilterArr
+// const curryFunc = TODO: карировать функцию reverseAndFilterArr для логирования действий
 
-// let decorateFunc = TODO: декорировать функцию reverseAndFilterArr
+// let decorateFunc = TODO: декорировать функцию reverseAndFilterArr для логирования действий
 
 // достаточно ли лаконичный код?
 
